@@ -1,0 +1,4 @@
+#Wykorzystane biblioteki
+numpy
+scipy
+matplotlib
